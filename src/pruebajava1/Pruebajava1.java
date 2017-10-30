@@ -5,9 +5,13 @@
  */
 package pruebajava1;
 
-/**
- *
+/***************************************************************************************************************
+ *marjorie castillo
+ * 
  * @author LAB10
+ * Fecha:octubre 30 de 2017
+ * Programa:pruebajava1
+ * Responsabilidad:clase principal
  */
 public class Pruebajava1 {
 
